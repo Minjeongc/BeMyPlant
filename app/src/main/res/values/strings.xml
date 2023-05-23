@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BeMyPlant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_name">🪴\nBe My\nPlant!</string>
+    <string name="sub_name">Be My Plant!</string>
+    <string name="id">ID</string>
+    <string name="pw">비밀번호</string>
+    <string name="login">로그인</string>
+    <string name="sign">회원가입</string>
+    <string name="start">시작</string>
+    <string name="user_name">이름 *</string>
+    <string name="user_telephone">전화번호 *</string>
+    <string name="next">다음</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
